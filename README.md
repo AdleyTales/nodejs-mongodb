@@ -1,6 +1,6 @@
 # nodejs操作mongodb
 
-> mongodb 是i款面向文档的数据库
+> mongodb 是一款面向文档的数据库
 
 - mongodb
 - Robomongo
