@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "nodejs handle mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdleyTales/nodejs-mongodb.git"
+  },
+  "author": "adleytales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdleyTales/nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/AdleyTales/nodejs-mongodb#readme",
+  "dependencies": {
+    "mongoose": "^4.13.0"
+  }
+}
